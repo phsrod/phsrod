@@ -12,6 +12,9 @@
   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width=50px>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width=50px>
   <img src="https://www.swi-prolog.org/download/logo/swipl-128.png" width=50px>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width=50px>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width=50px>
+  <img src="https://img.icons8.com/?size=100&id=w0gLt4XNjxKm&format=png&color=000000" width=50px>
 </div>
 
 <div style="text-align: center;">
@@ -19,7 +22,7 @@
     <tr>
       <td style="border: none;">
         <!-- Imagem -->
-        <img src="https://github.com/MarcosWillianAP1K/Programas/assets/161073600/9704b071-00dc-4a9d-8919-b595abfea1a2" style="width: 400px; height: auto;" alt="gif">
+        <img src="https://media1.tenor.com/m/WYxncgOder0AAAAC/tudo-nosso-krl.gif" style="width: 400px; height: 300px;" alt="gif">
       </td>
       <td style="border: none;">
         <!-- Estatísticas do GitHub -->
