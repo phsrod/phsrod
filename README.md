@@ -36,6 +36,18 @@
 </div>
 
 
+<div align="center">
+  <h3>Studying in this moment:</h3>
+   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width=50px>
+   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width=50px>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=phsrod&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=33CCCC&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
+</div>
+
+
+
 ![](https://komarev.com/ghpvc/?username=your-github-phsrod&color=000000&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
 
 
