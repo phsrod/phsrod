@@ -45,11 +45,10 @@
    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width=50px>
 </div>
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=phsrod&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=33CCCC&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=phsrod&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=FFFFFF&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
 </div>
-
-
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-phsrod&color=000000&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
