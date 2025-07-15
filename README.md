@@ -24,7 +24,7 @@
       <td style="border: none;">
         <!-- Estatísticas do GitHub -->
         <div align="center">
-          <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=phsrod&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=&text_color=FFFFFF&bg_color=000000" alt="Walison Weudes github stats" />
+          <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=phsrod&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=808080&text_color=FFFFFF&bg_color=000000" alt="Walison Weudes github stats" />
         </div>
         <!-- Linguagens Principais -->
         <div align="center">
