@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=phsrod;Aprecie+as+gambiarras!+:%29)](https://git.io/typing-svg)
 
+> **Técnico em Informática para Internet - IFPI;**
+
+> **Bacharelando em Sistemas de Informação (4/8) - UFPI**
+
 <div align="center"> 
   
 
